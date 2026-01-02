@@ -32,12 +32,11 @@ I am currently diving into various programming languages and frameworks. While I
 - [Class-File](https://github.com/RJ-unk/Class-File): A project showcasing my skills and learning journey. ⭐ 0 stars, Language: HTML, Forks: 0
 
 ## GitHub Stats
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
 
-🌟 Public Repositories: 3
-👥 Followers: 0
-🔗 Following: 0
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RJ-unk&show_icons=true&theme=radical)
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## Recent Activity
 
